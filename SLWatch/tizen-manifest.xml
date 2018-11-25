@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="5.0" package="info.dahlquist.slwatch" version="1.0.0">
+    <author email="marten@dahlquist.info" href="https://github.com/martendahlquist/slwatch">Mårten Dahlquist</author>
+    <profile name="wearable"/>
+    <ui-application appid="info.dahlquist.slwatch" exec="slwatch" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>slwatch</label>
+        <icon>slwatch.png</icon>
+    </ui-application>
+</manifest>
